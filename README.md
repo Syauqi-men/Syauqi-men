@@ -23,8 +23,7 @@ I enjoy building applications from database design and backend logic to user int
 
 *  Studying **Informatics**
 *  Interested in **Web & Backend Development**
-*  Currently learning **Go, REST API & Software Architecture**
-*  Building applications with **Laravel & PostgreSQL**
+*  Currently learning **Software Architecture**
 *  Interested in **Clean Architecture & System Design**
 *  Always experimenting with new technologies
 
@@ -58,7 +57,7 @@ I enjoy building applications from database design and backend logic to user int
 
 ---
 
-
+```
 Backend Development
 ├── PostgreSQL
 ├── API Design
