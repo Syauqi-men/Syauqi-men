@@ -34,19 +34,19 @@ I enjoy building applications from database design and backend logic to user int
 ###  Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,go,javascript,dart" />
+  <img src="https://skillicons.dev/icons?i=php,go,javascript" />
 </p>
 
 ###  Frameworks & Libraries
 
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,react,nextjs,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=laravel,react,nodejs,express" />
 </p>
 
 ###  Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
 </p>
 
 ###  Tools & Environment
