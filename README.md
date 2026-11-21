@@ -1,122 +1,113 @@
 <div align="center">
 
-#  Hi, I'm Ahmad Syauqi
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · syauqi-men</sub></p>
+<h1>Ahmad Syauqi Alfarisi</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>Building useful software and sharing the work in public.</p>
+<p><strong>● Building and sharing work in public</strong></p>
 
-### Technology Enthusiast
-
-Building applications, learning new technologies, and turning ideas into working software.
-
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-Syauqi--men-181717?style=for-the-badge\&logo=github)](https://github.com/Syauqi-men)
-[![Profile Views](https://komarev.com/ghpvc/?username=Syauqi-men\&style=for-the-badge\&color=blueviolet)](https://github.com/Syauqi-men)
-
+<p><a href="https://github.com/syauqi-men">GitHub</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/176487660?u=eb1bc22abd2c4ba31db6af9e8cf3a5389b5f4361&amp;v=4" width="180" alt="Ahmad Syauqi Alfarisi GitHub avatar" />
+</td>
+</tr>
+</table>
 </div>
 
----
+<h2>What teams can evaluate quickly</h2>
 
-##  About Me
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · Blade · TypeScript · PHP</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>8 repositories · 0 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>75 contributions · 37 active days</p></td>
+</tr>
+</table>
 
-I'm a **D3 Informatics student** with an interest in software development, particularly **web development and backend engineering**.
+<p><sub>Building useful software and sharing the work in public.</sub></p>
 
-I enjoy building applications from database design and backend logic to user interfaces, while continuously learning better software architecture and development practices.
+<h2>Proof at a glance</h2>
 
-*  Studying **Informatics**
-*  Interested in **Web & Backend Development**
-*  Currently learning **Software Architecture**
-*  Interested in **Clean Architecture & System Design**
-*  Always experimenting with new technologies
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>8</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>75</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>2</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
 
----
-
-##  Tech Stack
-
-###  Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=php,go,javascript" />
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=syauqi-men&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F176487660%3Fu%3Deb1bc22abd2c4ba31db6af9e8cf3a5389b5f4361%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=syauqi-men&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F176487660%3Fu%3Deb1bc22abd2c4ba31db6af9e8cf3a5389b5f4361%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Ahmad Syauqi Alfarisi GitHub proof metrics" />
+</picture>
 </p>
 
-###  Frameworks & Libraries
+<h2>Selected work</h2>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=laravel,react,nodejs,express" />
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=syauqi-men&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F176487660%3Fu%3Deb1bc22abd2c4ba31db6af9e8cf3a5389b5f4361%26v%3D4&repos=syauqi-men%2FSeeds&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=syauqi-men&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F176487660%3Fu%3Deb1bc22abd2c4ba31db6af9e8cf3a5389b5f4361%26v%3D4&repos=syauqi-men%2FSeeds&v=recruiter-projects-1&mode=dark" width="100%" alt="Ahmad Syauqi Alfarisi selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/Syauqi-men/Seeds">Seeds</a></h3>
+<p>A selected public project.</p>
+<p><sub>Blade · ⭐ 0 · 🍴 0</sub></p>
+<p><a href="https://github.com/Syauqi-men/Seeds">Read the repository →</a></p>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+
+</tr>
+</table>
+
+<h2>Technical toolkit</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=syauqi-men&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F176487660%3Fu%3Deb1bc22abd2c4ba31db6af9e8cf3a5389b5f4361%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=syauqi-men&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F176487660%3Fu%3Deb1bc22abd2c4ba31db6af9e8cf3a5389b5f4361%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Ahmad Syauqi Alfarisi technology stack" />
+</picture>
 </p>
 
-###  Database
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>Blade</strong><br /><sub>28% of public code</sub></td>
+<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>28% of public code</sub></td>
+<td width="20%" align="center"><strong>PHP</strong><br /><sub>24% of public code</sub></td>
+<td width="20%" align="center"><strong>CSS</strong><br /><sub>7% of public code</sub></td>
+<td width="20%" align="center"><strong>C++</strong><br /><sub>4% of public code</sub></td>
+</tr>
+</table>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+<h2>Consistency signal</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=syauqi-men&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F176487660%3Fu%3Deb1bc22abd2c4ba31db6af9e8cf3a5389b5f4361%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=syauqi-men&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F176487660%3Fu%3Deb1bc22abd2c4ba31db6af9e8cf3a5389b5f4361%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Ahmad Syauqi Alfarisi contribution activity" />
+</picture>
 </p>
 
-###  Tools & Environment
+<hr />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux" />
-</p>
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/syauqi-men">GitHub</a></td>
+</tr>
+</table>
 
----
-
-```
-Backend Development
-├── PostgreSQL
-├── API Design
-├── Authentication
-└── System Design
-```
-
-
-#  Contribution Streak
-
-<div align="center">
-
-<img
-src="https://streak-stats.demolab.com?user=Syauqi-men&theme=tokyonight&hide_border=true"
-width="700"
-/>
-
-</div>
-
-#  Development Philosophy
-
-> **Learn → Build → Break → Debug → Improve**
-
-I believe the best way to learn programming is by building real projects, encountering problems, understanding why they happen, and improving the implementation step by step.
-
----
-
-#  Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/Syauqi-men">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<!-- Add your LinkedIn here -->
-
-<!--
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
--->
-
-<!-- Add your email here -->
-
-<!--
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
--->
-
-</div>
-
----
-
-<div align="center">
-
-###  Keep Learning. Keep Building.
-
- Thanks for visiting my profile!
-
-</div>
+<p align="center"><sub>Ahmad Syauqi Alfarisi · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
