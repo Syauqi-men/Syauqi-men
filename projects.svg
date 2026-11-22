@@ -1,0 +1,20 @@
+<svg width="860" height="345" viewBox="0 0 860 345" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bg { fill: #0d1117; stroke: #30363d; stroke-width: 1.2; }
+    .bar { fill: #161b22; }
+    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; font-size: 13px; }
+    .green { fill: #3fb950; }
+    .blue { fill: #58a6ff; }
+    .white { fill: #e6edf3; }
+    .bold { font-weight: 700; }
+  </style>
+  <rect x="1" y="1" width="858" height="343" rx="12" class="bg"/>
+  <path d="M1 13 A12 12 0 0 1 13 1 H847 A12 12 0 0 1 859 13 V34 H1 Z" class="bar"/>
+  <circle cx="24" cy="18" r="5.5" fill="#ff5f56"/>
+  <circle cx="42" cy="18" r="5.5" fill="#ffbd2e"/>
+  <circle cx="60" cy="18" r="5.5" fill="#27c93f"/>
+  <text x="34" y="66" class="mono">
+    <tspan class="green bold">$ </tspan><tspan class="white">ls ~/projects</tspan>
+  </text>
+  <text x="34" y="105" class="mono green">drwx</text><text x="105" y="105" class="mono blue bold">Seeds/</text><text x="826" y="105" text-anchor="end" class="mono green">★ 0</text><line x1="34" y1="119" x2="826" y2="119" stroke="#21262d" stroke-width="1"/><text x="34" y="145" class="mono green">drwx</text><text x="105" y="145" class="mono blue bold">Temperature-Converter/</text><text x="826" y="145" text-anchor="end" class="mono green">★ 0</text><line x1="34" y1="159" x2="826" y2="159" stroke="#21262d" stroke-width="1"/><text x="34" y="185" class="mono green">drwx</text><text x="105" y="185" class="mono blue bold">Profile/</text><text x="826" y="185" text-anchor="end" class="mono green">★ 0</text><line x1="34" y1="199" x2="826" y2="199" stroke="#21262d" stroke-width="1"/><text x="34" y="225" class="mono green">drwx</text><text x="105" y="225" class="mono blue bold">counter_app/</text><text x="826" y="225" text-anchor="end" class="mono green">★ 0</text><line x1="34" y1="239" x2="826" y2="239" stroke="#21262d" stroke-width="1"/><text x="34" y="265" class="mono green">drwx</text><text x="105" y="265" class="mono blue bold">myapp/</text><text x="826" y="265" text-anchor="end" class="mono green">★ 0</text><line x1="34" y1="279" x2="826" y2="279" stroke="#21262d" stroke-width="1"/><text x="34" y="305" class="mono green">drwx</text><text x="105" y="305" class="mono blue bold">Digital-library/</text><text x="826" y="305" text-anchor="end" class="mono green">★ 0</text><line x1="34" y1="319" x2="826" y2="319" stroke="#21262d" stroke-width="1"/>
+</svg>
